@@ -5,7 +5,7 @@ int main(){
     printf("Addition of Two numbers is:%d\n",a+b);
     printf("Subtraction of Two numbers is:%d\n",a-b);
     printf("Statement for triggering push");
-    int k = 20;
+    int k = 200;
     //print("Value of k is %d\n",k);
     return 0;
 }
